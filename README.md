@@ -4,4 +4,6 @@ Video course by Brad Traversy: [https://www.youtube.com/watch?v=qZXt1Aom3Cs](htt
 
 Original repo: [https://github.com/bradtraversy/vue-crash-2021](https://github.com/bradtraversy/vue-crash-2021)
 
+Backend: [json-server](https://github.com/typicode/json-server)
+
 Build with [Vite](https://vitejs.dev/guide/#scaffolding-your-first-vite-project)
